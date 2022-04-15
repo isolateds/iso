@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">openApplication</string>
+    <string name="start_button">begin to detection</string>
+    <string name="choose_from_album">choose picture from album</string>
+    <string name="view_picture">view picture</string>
+
+</resources>

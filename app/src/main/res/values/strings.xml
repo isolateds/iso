@@ -3,5 +3,6 @@
     <string name="start_button">begin to detection</string>
     <string name="choose_from_album">choose picture from album</string>
     <string name="view_picture">view picture</string>
+    <string name="button3">submit</string>
 
 </resources>
